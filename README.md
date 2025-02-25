@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tarun7386/My-LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Tarun7386/My-LeetCode/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Tarun7386/My-LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Tarun7386/My-LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
