@@ -9,29 +9,15 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        cnt=0
-        
-        temp=head
-        while(temp!=None):
-            cnt+=1
-            print(head.val)
-            temp=temp.next
-        mid=cnt//2
-        temp=head
-        while mid>0:
-            temp=temp.next
-            mid=mid-1
-        dummy_node=ListNode(-1)
-        new_tail=dummy_node
-        while(temp is not None):
+        slow=head
+        fast=head
+        while(fast!=None and fast.next!=None ):
+            slow=slow.next
+            fast=fast.next.next
+        return slow
             
-            new_node=ListNode(temp.val)
-            new_tail.next=new_node
-            new_tail=new_node
-            temp=temp.next
-
         
-        return dummy_node.next
 
+            
 
 
