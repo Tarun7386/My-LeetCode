@@ -10,15 +10,23 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
-        result=[]
-        def inorder(root):
-            if root:
-                inorder(root.left)
-                result.append(root.val)
-                inorder(root.right)
-        inorder(root)
-        return result
+        stack=[]
+        inorderList=[]
+        pointer=root
+        while stack or pointer:
+            while pointer !=None:
+                stack.append(pointer)
+                pointer=pointer.left
+            
+            pointer=stack.pop()
+            inorderList.append(pointer.val)
 
+            pointer=pointer.right
+        return inorderList
+
+                
+        
 
         
-        
+
+
