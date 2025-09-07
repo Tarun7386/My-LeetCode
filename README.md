@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tarun7386/My-LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tarun7386/My-LeetCode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Tarun7386/My-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun7386/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Tarun7386/My-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Tarun7386/My-LeetCode/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Tarun7386/My-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Tarun7386/My-LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Tarun7386/My-LeetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
