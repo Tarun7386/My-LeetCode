@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Tarun7386/My-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Tarun7386/My-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tarun7386/My-LeetCode/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/Tarun7386/My-LeetCode/tree/master/0792-binary-search) |
 | [0983-validate-stack-sequences](https://github.com/Tarun7386/My-LeetCode/tree/master/0983-validate-stack-sequences) |
 ## Stack
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tarun7386/My-LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Tarun7386/My-LeetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
