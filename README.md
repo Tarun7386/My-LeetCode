@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tarun7386/My-LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tarun7386/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tarun7386/My-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/Tarun7386/My-LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun7386/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Tarun7386/My-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Tarun7386/My-LeetCode/tree/master/0268-missing-number) |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tarun7386/My-LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Tarun7386/My-LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tarun7386/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tarun7386/My-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Tarun7386/My-LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Tarun7386/My-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Tarun7386/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Tarun7386/My-LeetCode/tree/master/0283-move-zeroes) |
