@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Tarun7386/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tarun7386/My-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Tarun7386/My-LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Tarun7386/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Tarun7386/My-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Tarun7386/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Tarun7386/My-LeetCode/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Tarun7386/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Tarun7386/My-LeetCode/tree/master/0344-reverse-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Tarun7386/My-LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Dynamic Programming
