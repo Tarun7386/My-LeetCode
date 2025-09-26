@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tarun7386/My-LeetCode/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tarun7386/My-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Tarun7386/My-LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Tarun7386/My-LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Database
 |  |
 | ------- |
@@ -164,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Tarun7386/My-LeetCode/tree/master/0204-count-primes) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Tarun7386/My-LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
