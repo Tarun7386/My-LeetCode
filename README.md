@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tarun7386/My-LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Tarun7386/My-LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Tarun7386/My-LeetCode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Tarun7386/My-LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Tarun7386/My-LeetCode/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tarun7386/My-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Tarun7386/My-LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Tarun7386/My-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Tarun7386/My-LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun7386/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0204-count-primes](https://github.com/Tarun7386/My-LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Tarun7386/My-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Tarun7386/My-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tarun7386/My-LeetCode/tree/master/0283-move-zeroes) |
@@ -154,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tarun7386/My-LeetCode/tree/master/0238-product-of-array-except-self) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tarun7386/My-LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tarun7386/My-LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
