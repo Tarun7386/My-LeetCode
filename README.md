@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Tarun7386/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Tarun7386/My-LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tarun7386/My-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Tarun7386/My-LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Tarun7386/My-LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun7386/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Tarun7386/My-LeetCode/tree/master/0130-surrounded-regions) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tarun7386/My-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Tarun7386/My-LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Tarun7386/My-LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tarun7386/My-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tarun7386/My-LeetCode/tree/master/0792-binary-search) |
