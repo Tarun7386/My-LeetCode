@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Tarun7386/My-LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Tarun7386/My-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0983-validate-stack-sequences](https://github.com/Tarun7386/My-LeetCode/tree/master/0983-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/Tarun7386/My-LeetCode/tree/master/0994-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tarun7386/My-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Tarun7386/My-LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Tarun7386/My-LeetCode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Tarun7386/My-LeetCode/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
@@ -188,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Tarun7386/My-LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Tarun7386/My-LeetCode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Tarun7386/My-LeetCode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
